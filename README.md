@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mary</h1>
-<h3 align="center">A Senior Backend developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maryam-mardani&label=Profile%20views&color=0e75b6&style=flat" alt="maryam-mardani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryam-mardani" alt="maryam-mardani" /></a> </p>
+  
+  Expertise in Backend development using PHP and MySQL with +10 years of experience
+  Experience in Laravel about 3 years
+  Experience in Java about 2 years
+  
+  Experience with web services and API
+  Experience with Agile development methodology (Scrum).
+  
+  Top Skills: PHP  · MySQL , SOAP · RESTful Web Services · REST APIs · Laravel
 
 - 🌱 I’m currently learning **React, Python and Machine learning**
 
