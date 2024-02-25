@@ -1,5 +1,4 @@
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryam-mardani" alt="maryam-mardani" /></a> </p>
   
   Expertise in Backend development using PHP and MySQL with +10 years of experience
   Experience in Laravel about 3 years
@@ -31,3 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryam-mardani&show_icons=true&locale=en" alt="maryam-mardani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maryam-mardani&" alt="maryam-mardani" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maryam-mardani&label=Profile%20views&color=0e75b6&style=flat" alt="maryam-mardani" /> </p>
+
