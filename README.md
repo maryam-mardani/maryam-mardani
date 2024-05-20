@@ -17,6 +17,7 @@ Expertise in Backend development using PHP and MySQL with +10 years of experienc
  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-F60?logo=rabbitmq&logoColor=fff&style=plastic)
  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+ ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?logo=livewire&logoColor=fff&style=plastic)
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maryam-mardani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
